@@ -32,8 +32,8 @@ scaling_plan_time_zone          = "UTC"
 # ============================================================================
 # SESSION HOST CREDENTIALS
 # ============================================================================
-avd_vm_local_user_name        = "etfadmin"
-avd_vm_local_user_password    = "Ihavenoidea53*"
+avd_vm_local_user_name        = "your-local-admin"
+avd_vm_local_user_password    = "your-local-device---password *"
 
 # ============================================================================
 # HOST POOL CONFIGURATION
