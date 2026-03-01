@@ -1,4 +1,4 @@
-# Terraform AVD0 Deployment Guide
+# Terraform AVD Deployment Guide
 
 ## Prerequisites
 - Terraform installed and configured (version 1.1.7 or later)
